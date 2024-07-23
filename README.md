@@ -2,24 +2,12 @@
 
 This repository showcases my skills, experience, and accomplishments across various projects and areas of expertise. It's a living collection, continually evolving as I learn and grow.
 
-## Table of Contents
-
-- About Me: #about-me
-- Projects: #projects
-- Skills: #skills
-- Contact: #contact
 
 ## About Me
 
 - **Nithish Singh**
 - **Location:** Bangalore, India
 - Highly motivated and results-oriented Data Science professional with 3+ years of experience leveraging data analysis, machine learning, and project management skills to drive data-driven insights and actionable solutions. Proven ability to lead successful projects, collaborate effectively with cross-functional teams, and deliver impactful results. Passionate about utilizing data to solve real-world problems and optimize business operations.
-
-## Projects
-
-- **Project Name:** Customer Churn Prediction System
-  - **Description:** Developed a machine learning model to predict customer churn for a telecommunications company, achieving 85% accuracy. Implemented using Python, scikit-learn, and pandas.
-  - **Link:** [Project Link](https://github.com/nithishsingh/customer-churn-prediction)
 
 
 ## Skills
